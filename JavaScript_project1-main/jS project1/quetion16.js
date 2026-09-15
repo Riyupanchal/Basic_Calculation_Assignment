@@ -1,0 +1,7 @@
+let age = 20;
+
+console.log("Original age:", age);
+
+age = age + 5;
+
+console.log("Updated age:", age);
